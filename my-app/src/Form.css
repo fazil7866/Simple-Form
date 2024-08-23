@@ -35,28 +35,28 @@ body {
   .form-label {
     display: block;
     margin-bottom: 5px;
-    color: #e6e6e6; /* Light gray labels */
+    color: #e6e6e6; 
   }
   
   .form-input {
     width: 100%;
     padding: 10px;
-    border: 1px solid #555555; /* Slightly lighter border */
+    border: 1px solid #dcd4d4; 
     border-radius: 4px;
-    background-color: #222222; /* Dark input background */
-    color: #ffffff; /* White text color */
+    background-color: #222222; 
+    color: #ffffff; 
     font-size: 16px;
   }
   
   .form-input:focus {
     outline: none;
-    border-color: #ffcc00; /* Bright yellow border on focus */
+    border-color: #ffcc00; 
   }
   
   .form-radio,
   .form-checkbox {
     margin-right: 10px;
-    color: #e6e6e6; /* Light gray text */
+    color: #bbe83d; 
   }
   
   .form-checkbox input {
@@ -64,8 +64,8 @@ body {
   }
   
   .form-button {
-    background-color: #ffcc00; /* Bright yellow button */
-    color: #1a1a1a; /* Dark text for contrast */
+    background-color: #ffcc00; 
+    color: #1a1a1a; 
     padding: 10px 20px;
     border: none;
     border-radius: 4px;
@@ -75,6 +75,8 @@ body {
   }
   
   .form-button:hover {
-    background-color: #e6b800; /* Slightly darker yellow on hover */
+    background-color: #e6b800; 
   }
+
+
   

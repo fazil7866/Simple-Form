@@ -9,7 +9,7 @@ function App() {
       <div className="flex justify-center items-center h-screen">
         <div className="space-x-4">
           <Link to="/form">
-            <button className="bg-blue-500 text-white px-4 py-2 rounded">Go to Form</button>
+            <button className="bg-blue-500 text-white px-4 py-2 rounded ">Go to Form</button>
           </Link>
           <Link to="/respondents">
             <button className="bg-blue-500 text-white px-4 py-2 rounded">Go to Respondents</button>
